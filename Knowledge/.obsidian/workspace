@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "82f567139107833f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8de47259838162",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c01309fa4b9e196a",
+    "type": "split",
+    "children": [
+      {
+        "id": "339a38166abfdc66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108405e172ea9abf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0c2cfea7382e6dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "012660d9018fd554",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc93c6f60609204a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "982e9a4a5b8d8b6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Языки программирования/Карта языков программирования/Swift.md",
+    "Языки программирования/Swift/Конструкция If и опциональные типы в Swift.md",
+    "Языки программирования/Swift/Базовые операторы в Swift.md",
+    "Прикладная математика/Методы оптимизации/Методы одномерной оптимизации нулевого порядка.md",
+    "Науки/Карта наук/Science.md",
+    "Науки/Математика/Методы оптимизации.md",
+    "Прикладная математика/Методы оптимизации.md",
+    "Методы одномерной оптимизации нулевого порядка.md",
+    "Untitled.md",
+    "Науки/Математика/Прикладная математика.md"
+  ]
+}
