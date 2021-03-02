@@ -1,6 +1,6 @@
 # Swift programming language
 
-#Программирование  [[Swift]]
+#Программирование  #Swift
 
 Тут находится карта базы знаний по __Swift__
 

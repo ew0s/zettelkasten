@@ -1,5 +1,5 @@
 # Operating systems
-[[Computer_Science]] 
+#Computer_Science
 
 Тут расположена карта по базе знаний __Operating systems__
 

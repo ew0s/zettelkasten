@@ -1,4 +1,4 @@
 # Programming languages
-#Программирование [[Computer_Science]]
+#Программирование #Computer_Science
 
 - [[Swift]]
