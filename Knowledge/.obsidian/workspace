@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Операционные системы/Windows/Архитектура Windows.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Операционные системы/Windows/Архитектура Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Науки/Математика/Прикладная математика.md",
+    "Операционные системы/Windows/Архитектура Windows.md",
     "Науки/Компьютерные науки/Operating systems.md",
+    "Untitled.md",
+    "Архитектура Windowsю.md",
+    "Науки/Математика/Прикладная математика.md",
     "Науки/Компьютерные науки/Programming languages.md",
     "Науки/Карта наук/Science.md",
     "Науки/Карта наук/Computer science.md",
     "Науки/Карта наук/Math.md",
-    "Прикладная математика/Карта методов оптимизации/Методы оптимизации.md",
-    "Прикладная математика/Методы оптимизации/Методы одномерной оптимизации нулевого порядка.md",
-    "Языки программирования/Swift/Свойства, типы данных, приведение типов в Swift.md",
-    "Языки программирования/Swift/Базовые операторы в Swift.md"
+    "Прикладная математика/Карта методов оптимизации/Методы оптимизации.md"
   ]
 }
