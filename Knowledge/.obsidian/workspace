@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Операционные системы/Windows/Архитектура Windows.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Операционные системы/Windows/Архитектура Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +82,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Языки программирования/Карта языков программирования/Swift.md",
+    "Операционные системы/Карта операционных систем/Windows administration.md",
     "Операционные системы/Windows/Архитектура Windows.md",
     "Науки/Компьютерные науки/Operating systems.md",
     "Untitled.md",
@@ -93,8 +91,6 @@
     "Науки/Математика/Прикладная математика.md",
     "Науки/Компьютерные науки/Programming languages.md",
     "Науки/Карта наук/Science.md",
-    "Науки/Карта наук/Computer science.md",
-    "Науки/Карта наук/Math.md",
-    "Прикладная математика/Карта методов оптимизации/Методы оптимизации.md"
+    "Науки/Карта наук/Computer science.md"
   ]
 }
