@@ -98,6 +98,9 @@ strings.contains("a") // true
 strings.sorted() // ["a", "b", "c", "d", "f"]
 let anotherStrings = strings.sorted(by: >)
 ```
+
+---
+
 ### Словари
 > Коллекция ключ значение
 
@@ -130,4 +133,81 @@ removeAll
 ...
 ```
 
+---
 
+### For-in циклы 
+#### Сам цикл
+```swift
+var sum = 0
+for counter in 1...5 {
+    sum += counter
+}
+
+print(sum)
+```
+
+#### Итерация по массиву
+
+```swift
+let fruits = [
+    "apple",
+    "banana",
+    "pineapple",
+    "apple",
+    "pear",
+    "apple",
+    "plum",
+    "apricot",
+    "apple"
+]
+
+var appleCount = 0
+
+for fruit in fruits {
+    if fruit == "apple" {
+        appleCount += 1
+    }
+}
+
+print("The number of apples is \(appleCount) pieces")
+```
+
+#### Итерация по словарю
+
+```swift
+let numberOfLegs = ["spider": 8, "ant": 6, "cat": 4]
+
+for (animal, legCount) in numberOfLegs {
+    print("\(animal)s have \(legCount) legs")
+}
+```
+
+#### Итерация по текст
+
+```swift
+let someText = "Hello!"
+
+for char in someText {
+    print(char)
+}
+```
+
+---
+
+### While циклы
+
+```swift
+var counter = 5
+
+while counter > 0 {
+    print(counter)
+    counter -= 1
+}
+```
+
+```swift
+repeat {
+    print(counter)
+    counter -= 1
+} while counter > 0
+```
