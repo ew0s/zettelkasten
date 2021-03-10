@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8de47259838162",
+        "id": "86773cd55626b87b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -82,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Языки программирования/Swift/Функции и замыкания в Swiftю.md",
     "Языки программирования/Карта языков программирования/Swift.md",
+    "Языки программирования/Swift/Типы коллекций и циклы в Swift.md",
     "Операционные системы/Карта операционных систем/Windows administration.md",
     "Операционные системы/Windows/Архитектура Windows.md",
     "Науки/Компьютерные науки/Operating systems.md",
     "Untitled.md",
     "Архитектура Windowsю.md",
     "Науки/Математика/Прикладная математика.md",
-    "Науки/Компьютерные науки/Programming languages.md",
-    "Науки/Карта наук/Science.md",
-    "Науки/Карта наук/Computer science.md"
+    "Науки/Компьютерные науки/Programming languages.md"
   ]
 }

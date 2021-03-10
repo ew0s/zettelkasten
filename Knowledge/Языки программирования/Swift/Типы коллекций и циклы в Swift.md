@@ -15,7 +15,7 @@
 let strings = ["a", "b", "c"]
 
 // Неизменяемый массив с типом данных Character
-let characters: [Character] = ['a', 'b', 'c']
+let characters: [Character] = ['a', 'b', 'c'
 
 // Пустой массив с типом Int
 var integers = [Int]()
