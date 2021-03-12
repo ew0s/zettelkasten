@@ -2,3 +2,4 @@
 #Программирование #Computer_Science
 
 - [[Swift]]
+- [[Go]]
